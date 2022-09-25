@@ -1,0 +1,3 @@
+python-molecule-docker source: no-debian-changes
+python-molecule-docker source: source-contains-prebuilt-windows-binary
+python-molecule-docker source: source-package-encodes-python-version

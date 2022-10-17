@@ -1,0 +1,5 @@
+python-molecule-docker (100:2.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible-community/molecule-docker/releases/tag/v2.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 18 Jul 2022 20:54:37 +0800

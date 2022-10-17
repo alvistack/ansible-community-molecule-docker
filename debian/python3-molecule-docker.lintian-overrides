@@ -1,0 +1,5 @@
+python3-molecule-docker: copyright-without-copyright-notice
+python3-molecule-docker: initial-upload-closes-no-bugs
+python3-molecule-docker: no-manual-page
+python3-molecule-docker: unusual-interpreter
+python3-molecule-docker: zero-byte-file-in-doc-directory
